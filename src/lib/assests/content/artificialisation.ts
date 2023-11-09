@@ -25,17 +25,17 @@ export const content: { [key: string]: string[] | {intro: string, menu: string[]
             <p>De l’autre côté, <span class='emphase'>Mons</span> est la commune qui a connu la plus petite évolution de l’artificialisation de son territoire avec <span class='emphase'>1.98</span>%. Cette évolution n’est dû qu’au résidentiel.</p>
         `,
         `
-            <p>Mons n’est pas la seule commune à voir l’évolution de son artificialisation entièrement due à la construction de nouvelles zones résidentielles. C’est le cas de plusieurs autres communes.</p>
+            <p>Cependant, pour la commune de Mons, l'entièreté de cette nouvelle artificialisation peut être attribué au résidentiel. Elle n’est pas la seule commune dans le cas. C’est le cas de plusieurs autres.</p>
             <p>De manière générale, on observe que, dans la plupart des communes, la construction de nouveaux bâtiments résidentiels prend une part importante dans l’artificialisation globale du territoire.</p>
         `
     ],
     population: [
         `
             <p>L’évolution de la population pourrait expliquer le besoin grandissant de nouveaux bâtiments résidentiels.</p>
-            <p>Pour la commune de <span class='municipality-name emphase'></span>, sur la même période 2002-2020, on constate que la population a augmenté de <span class='populationIncrease emphase'></span>%.</p>
+            <p>Pour la commune de <span class='municipality-name emphase'></span>, sur la même période 2002-2020, on constate que la population a augmenté de <span class='populationIncrease emphase'></span>%, passant de </span> de <span class='population2002 emphase'></span> à <span class='population2020 emphase'></span> habitans.</p>
         `,
         `
-            <p>De plus, toujours durant la même période, la taille de ménage a tendance à diminuer, passant pour <span class='municipality-name emphase'></span> de <span class='population2002 emphase'></span> à <span class='population2020 emphase'></span>.</p>
+            <p>De plus, toujours durant la même période, la taille de ménage a tendance à diminuer, passant pour <span class='municipality-name emphase'></span> de <span class='household2002 emphase'></span> à <span class='household2020 emphase'></span> personnes par ménages.</p>
         `,
         `
             <p>Ceux deux informations peuvent expliquer le besoin grandissant de zones résidentielles. Cependant, bien que des habitations supplémentaires soient nécessaires le taux auquel elles sont construites n’est quant à lui pas si justifier.</p>

@@ -4,6 +4,10 @@ export const content = {
 
 export const chaptersData = [
     {
+        displayedName: "artificialisation",
+        linkName: "artificialisation"
+    },
+    {
         displayedName: "inondation",
         linkName: "flood"
     },
@@ -11,32 +15,28 @@ export const chaptersData = [
         displayedName: "chaleur",
         linkName: "heat"
     },
-    {
-        displayedName: "eau",
-        linkName: "water"
-    },
-    {
-        displayedName: "biodiversité",
-        linkName: "biodiversity"
-    },
-    {
-        displayedName: "agriculture",
-        linkName: "farming"
-    },
-    {
-        displayedName: "santé",
-        linkName: "health"
-    },
-    {
-        displayedName: "énergie",
-        linkName: "energy"
-    },
-    {
-        displayedName: "artificialisation",
-        linkName: "artificialisation"
-    },
-    {
-        displayedName: "résilience systémique",
-        linkName: "misc"
-    },
+    // {
+    //     displayedName: "eau",
+    //     linkName: "water"
+    // },
+    // {
+    //     displayedName: "biodiversité",
+    //     linkName: "biodiversity"
+    // },
+    // {
+    //     displayedName: "agriculture",
+    //     linkName: "farming"
+    // },
+    // {
+    //     displayedName: "santé",
+    //     linkName: "health"
+    // },
+    // {
+    //     displayedName: "énergie",
+    //     linkName: "energy"
+    // },
+    // {
+    //     displayedName: "résilience systémique",
+    //     linkName: "misc"
+    // },
 ]

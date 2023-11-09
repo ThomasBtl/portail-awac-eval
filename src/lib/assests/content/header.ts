@@ -26,7 +26,7 @@ export const content: {title: string; menu: {icon: string, title: string; text: 
                 </svg>
             `,
             title: "Via notre visualisation narrative",
-            text: "Découvrez huit sections permetant de mieux comprendre les types de risque environnementaux majeurs en Wallonie et les secteurs impactés. Dans chacune de ces sections vous retrouverez une définition du risque/secteur, son historique et son évolution dans le futur, une analyse quantitative et qualitative de l’impact socio-économique ainsi que les mesures d’adaptation possible.",
+            text: "Découvrez trois sections permetant de mieux comprendre les types de risque environnementaux majeurs en Wallonie et les secteurs impactés. Dans chacune de ces sections vous retrouverez une définition du risque/secteur, son historique et son évolution dans le futur, une analyse quantitative et qualitative de l’impact socio-économique ainsi que les mesures d’adaptation possible.",
             buttonText: "Commencer !",
             buttonLink: (container) => window.scrollTo({top: container.getBoundingClientRect().height, behavior: 'smooth'})
         },

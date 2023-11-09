@@ -185,7 +185,7 @@
 <div>
     <!-- Workaround to have the card over the map and keeping the other scroller foreground section interactive -->
     <div style="position: relative;">
-        <div class="content" style={`position: absolute;z-index: 10; left: ${$viewport === "desktop" ? "25%" : 0};`}>
+        <div class="content" style={`${$viewport === "desktop" ? "min-width: 960px" : ""}; position: absolute;z-index: 10; left: ${$viewport === "desktop" ? "50%" : 0}; ${$viewport === "desktop" ? "transform: translateX(-50%);" : ""}`}>
             {#each cardsContent as card}
                 <section>
                     <div class="card">

@@ -22,14 +22,14 @@ export const content: INavContent = {
             title: "Naviguer au travers d’une problèmatique !",
             content: 
             `
-                <p>Sur ce portail, sept sections vous sont proposées couvrant chacune un type de risque environnemental majeur en Wallonie ou un secteur fortement impacté, basé sur l’approche de la démarche « Adapte ta commune ». Dans chacune de ces sections vous retrouverez : </p>
+                <p>Sur ce portail, trois sections vous sont proposées couvrant chacune un type de risque environnemental majeur en Wallonie ou un secteur fortement impacté, basé sur l’approche de la démarche « Adapte ta commune ». Dans chacune de ces sections vous retrouverez : </p>
                 <ul>
                     <li>Une <span class="emphase">définition du risque/secteur,</li>
                     <li>son <span class="emphase">historique et</span> son évolution dans le <span class="emphase">futur</span>,</li>
                     <li>une analyse quantitative et qualitative de <span class="emphase">l’impact socio-économique</span></li>
                     <li>ainsi que les mesures d’adaptation possible.</li>
                 </ul>
-                <p>Deux sections supplémentaires traitent des aspects transversaux tels que l’artificialisation du territoire, les inégalités socio-économiques, la maladaptation et la sobriété.</p>
+                <p></p>
             ` 
         },
         "[NAV]",

@@ -29,12 +29,14 @@
             "residentialIncrease": 16967.50600000016,
             "pctArtificialisationIncrease": 13.222636798661954,
             "pctResidentialShareInArtificialisation": 70.82578220354499,
-            "residentialShare": 0.0000017005900220031002,
+            "residentialShare": 1.7005900220031002e-06,
             "commercialShare": 1.0001000100000002e-11,
-            "industrialShare": 1.0004000200039999e-7,
+            "industrialShare": 1.0004000200039999e-07,
             "populationIncrease": 7.864578575420078,
             "population2002": 3358560,
-            "population2020": 3645243
+            "population2020": 3645243,
+            "household2002": 2.339228703811813,
+            "household2020": 2.1359656881350935
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 29105,
@@ -405,7 +407,9 @@
             "industrialShare": 0.001,
             "populationIncrease": 13.393476752255374,
             "population2002": 6240,
-            "population2020": 7205
+            "population2020": 7205,
+            "household2002": 2.72,
+            "household2020": 2.58
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 61,
@@ -776,7 +780,9 @@
             "industrialShare": 0.016,
             "populationIncrease": 10.637291511077917,
             "population2002": 35897,
-            "population2020": 40170
+            "population2020": 40170,
+            "household2002": 2.53,
+            "household2020": 2.4
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 144,
@@ -1114,7 +1120,7 @@
     },
     {
         "ins": "25015",
-        "name": "BRAINE-LE-CHÂTEAU",
+        "name": "BRAINE-LE-CH\u00c3\u201aTEAU",
         "artificialisation": {
             "territory": [
                 {
@@ -1147,7 +1153,9 @@
             "industrialShare": 0.025,
             "populationIncrease": 13.206295032233594,
             "population2002": 9155,
-            "population2020": 10548
+            "population2020": 10548,
+            "household2002": 2.58,
+            "household2020": 2.49
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 47,
@@ -1518,7 +1526,9 @@
             "industrialShare": 0.002,
             "populationIncrease": 9.930358524632442,
             "population2002": 10476,
-            "population2020": 11631
+            "population2020": 11631,
+            "household2002": 2.65,
+            "household2020": 2.51
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 34,
@@ -1856,7 +1866,7 @@
     },
     {
         "ins": "25023",
-        "name": "COURT-SAINT-ÉTIENNE",
+        "name": "COURT-SAINT-\u00c3\u2030TIENNE",
         "artificialisation": {
             "territory": [
                 {
@@ -1889,7 +1899,9 @@
             "industrialShare": 0.008,
             "populationIncrease": 16.271602606478417,
             "population2002": 8866,
-            "population2020": 10589
+            "population2020": 10589,
+            "household2002": 2.63,
+            "household2020": 2.51
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 199,
@@ -2260,7 +2272,9 @@
             "industrialShare": 0.011000000000000001,
             "populationIncrease": 10.28920308483291,
             "population2002": 13959,
-            "population2020": 15560
+            "population2020": 15560,
+            "household2002": 2.61,
+            "household2020": 2.5
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 98,
@@ -2631,7 +2645,9 @@
             "industrialShare": 0.004,
             "populationIncrease": 13.119008145318245,
             "population2002": 12053,
-            "population2020": 13873
+            "population2020": 13873,
+            "household2002": 2.7,
+            "household2020": 2.53
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 80,
@@ -3002,7 +3018,9 @@
             "industrialShare": 0.002,
             "populationIncrease": 22.183991307497287,
             "population2002": 4297,
-            "population2020": 5522
+            "population2020": 5522,
+            "household2002": 2.63,
+            "household2020": 2.51
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 5,
@@ -3373,7 +3391,9 @@
             "industrialShare": 0.017,
             "populationIncrease": 17.651286474054906,
             "population2002": 5729,
-            "population2020": 6957
+            "population2020": 6957,
+            "household2002": 2.5,
+            "household2020": 2.48
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 22,
@@ -3744,7 +3764,9 @@
             "industrialShare": 0.006,
             "populationIncrease": 18.13052866197674,
             "population2002": 11754,
-            "population2020": 14357
+            "population2020": 14357,
+            "household2002": 2.53,
+            "household2020": 2.41
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 457,
@@ -4115,7 +4137,9 @@
             "industrialShare": 0.001,
             "populationIncrease": 6.611126041386727,
             "population2002": 6950,
-            "population2020": 7442
+            "population2020": 7442,
+            "household2002": 2.37,
+            "household2020": 2.33
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 36,
@@ -4486,7 +4510,9 @@
             "industrialShare": 0.015,
             "populationIncrease": 22.27710233029382,
             "population2002": 6137,
-            "population2020": 7896
+            "population2020": 7896,
+            "household2002": 2.52,
+            "household2020": 2.42
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 4,
@@ -4857,7 +4883,9 @@
             "industrialShare": 0.036000000000000004,
             "populationIncrease": 17.100024235709586,
             "population2002": 23944,
-            "population2020": 28883
+            "population2020": 28883,
+            "household2002": 2.21,
+            "household2020": 2.13
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 535,
@@ -5228,7 +5256,9 @@
             "industrialShare": 0.006999999999999999,
             "populationIncrease": 23.982665680160665,
             "population2002": 7192,
-            "population2020": 9461
+            "population2020": 9461,
+            "household2002": 2.67,
+            "household2020": 2.42
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 95,
@@ -5599,7 +5629,9 @@
             "industrialShare": 0.022000000000000002,
             "populationIncrease": 5.328212598772786,
             "population2002": 21446,
-            "population2020": 22653
+            "population2020": 22653,
+            "household2002": 2.53,
+            "household2020": 2.42
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 83,
@@ -5970,7 +6002,9 @@
             "industrialShare": 0.04,
             "populationIncrease": 19.609093637454976,
             "population2002": 21429,
-            "population2020": 26656
+            "population2020": 26656,
+            "household2002": 2.52,
+            "household2020": 2.47
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 87,
@@ -6341,7 +6375,9 @@
             "industrialShare": 0.005,
             "populationIncrease": 14.877414561664192,
             "population2002": 9166,
-            "population2020": 10768
+            "population2020": 10768,
+            "household2002": 2.67,
+            "household2020": 2.55
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 43,
@@ -6712,7 +6748,9 @@
             "industrialShare": 0.009000000000000001,
             "populationIncrease": 4.865683434290224,
             "population2002": 28898,
-            "population2020": 30376
+            "population2020": 30376,
+            "household2002": 2.57,
+            "household2020": 2.45
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 31,
@@ -7083,7 +7121,9 @@
             "industrialShare": 0.04,
             "populationIncrease": 9.272476113733163,
             "population2002": 31526,
-            "population2020": 34748
+            "population2020": 34748,
+            "household2002": 2.46,
+            "household2020": 2.34
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 831,
@@ -7454,7 +7494,9 @@
             "industrialShare": 0.002,
             "populationIncrease": 14.821080026024724,
             "population2002": 6546,
-            "population2020": 7685
+            "population2020": 7685,
+            "household2002": 2.88,
+            "household2020": 2.62
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 3,
@@ -7792,7 +7834,7 @@
     },
     {
         "ins": "25118",
-        "name": "HÉLÉCINE",
+        "name": "H\u00c3\u2030L\u00c3\u2030CINE",
         "artificialisation": {
             "territory": [
                 {
@@ -7825,7 +7867,9 @@
             "industrialShare": 0.002,
             "populationIncrease": 20.472008781558728,
             "population2002": 2898,
-            "population2020": 3644
+            "population2020": 3644,
+            "household2002": 2.39,
+            "household2020": 2.47
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 27,
@@ -8196,7 +8240,9 @@
             "industrialShare": 0.001,
             "populationIncrease": 4.320684575997758,
             "population2002": 13641,
-            "population2020": 14257
+            "population2020": 14257,
+            "household2002": 2.67,
+            "household2020": 2.58
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 19,
@@ -8567,7 +8613,9 @@
             "industrialShare": 0.002,
             "populationIncrease": 16.39015699810712,
             "population2002": 7509,
-            "population2020": 8981
+            "population2020": 8981,
+            "household2002": 2.55,
+            "household2020": 2.53
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 35,
@@ -8938,7 +8986,9 @@
             "industrialShare": 0.016,
             "populationIncrease": 9.400945203729727,
             "population2002": 28372,
-            "population2020": 31316
+            "population2020": 31316,
+            "household2002": 2.36,
+            "household2020": 2.17
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 179,
@@ -9309,7 +9359,9 @@
             "industrialShare": 0.001,
             "populationIncrease": 14.890042761148447,
             "population2002": 5573,
-            "population2020": 6548
+            "population2020": 6548,
+            "household2002": 2.73,
+            "household2020": 2.6
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 13,
@@ -9680,7 +9732,9 @@
             "industrialShare": 0.05,
             "populationIncrease": 9.767697091640759,
             "population2002": 9866,
-            "population2020": 10934
+            "population2020": 10934,
+            "household2002": 2.58,
+            "household2020": 2.48
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 72,
@@ -10051,7 +10105,9 @@
             "industrialShare": 0.005,
             "populationIncrease": 22.706889523033023,
             "population2002": 5688,
-            "population2020": 7359
+            "population2020": 7359,
+            "household2002": 2.66,
+            "household2020": 2.57
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 7,
@@ -10422,7 +10478,9 @@
             "industrialShare": 0.016,
             "populationIncrease": 11.870210890350574,
             "population2002": 25993,
-            "population2020": 29494
+            "population2020": 29494,
+            "household2002": 2.33,
+            "household2020": 2.21
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 1019,
@@ -10793,7 +10851,9 @@
             "industrialShare": 0.006999999999999999,
             "populationIncrease": 4.758179231863446,
             "population2002": 13391,
-            "population2020": 14060
+            "population2020": 14060,
+            "household2002": 2.39,
+            "household2020": 2.26
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 15,
@@ -11164,7 +11224,9 @@
             "industrialShare": 0.013999999999999999,
             "populationIncrease": 3.695578805264932,
             "population2002": 11414,
-            "population2020": 11852
+            "population2020": 11852,
+            "household2002": 2.5,
+            "household2020": 2.3
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 25,
@@ -11535,7 +11597,9 @@
             "industrialShare": 0.015,
             "populationIncrease": 12.030075187969924,
             "population2002": 3276,
-            "population2020": 3724
+            "population2020": 3724,
+            "household2002": 2.4,
+            "household2020": 2.35
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 4,
@@ -11873,7 +11937,7 @@
     },
     {
         "ins": "51014",
-        "name": "CHIÈVRES",
+        "name": "CHI\u00c3\u02c6VRES",
         "artificialisation": {
             "territory": [
                 {
@@ -11906,7 +11970,9 @@
             "industrialShare": 0.003,
             "populationIncrease": 12.707581227436826,
             "population2002": 6045,
-            "population2020": 6925
+            "population2020": 6925,
+            "household2002": 2.47,
+            "household2020": 2.43
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 10,
@@ -12277,7 +12343,9 @@
             "industrialShare": 0.002,
             "populationIncrease": 6.275033377837113,
             "population2002": 5616,
-            "population2020": 5992
+            "population2020": 5992,
+            "household2002": 2.46,
+            "household2020": 2.37
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 5,
@@ -12648,7 +12716,9 @@
             "industrialShare": 0.004,
             "populationIncrease": 6.466647247305568,
             "population2002": 3211,
-            "population2020": 3433
+            "population2020": 3433,
+            "household2002": 2.51,
+            "household2020": 2.28
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 4,
@@ -13019,7 +13089,9 @@
             "industrialShare": 0.005,
             "populationIncrease": 7.935434800980312,
             "population2002": 10894,
-            "population2020": 11833
+            "population2020": 11833,
+            "household2002": 2.5,
+            "household2020": 2.39
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 30,
@@ -13390,7 +13462,9 @@
             "industrialShare": 0.006999999999999999,
             "populationIncrease": 20.418177938980154,
             "population2002": 11190,
-            "population2020": 14061
+            "population2020": 14061,
+            "household2002": 2.42,
+            "household2020": 2.36
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 16,
@@ -13761,7 +13835,9 @@
             "industrialShare": 0.002,
             "populationIncrease": 7.630570196454245,
             "population2002": 7711,
-            "population2020": 8348
+            "population2020": 8348,
+            "household2002": 2.69,
+            "household2020": 2.49
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 12,
@@ -14132,7 +14208,9 @@
             "industrialShare": 0.025,
             "populationIncrease": 7.5002667235676945,
             "population2002": 17340,
-            "population2020": 18746
+            "population2020": 18746,
+            "household2002": 2.39,
+            "household2020": 2.32
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 352,
@@ -14503,7 +14581,9 @@
             "industrialShare": 0.013999999999999999,
             "populationIncrease": 5.268490374873358,
             "population2002": 14025,
-            "population2020": 14805
+            "population2020": 14805,
+            "household2002": 2.45,
+            "household2020": 2.29
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 5,
@@ -14874,7 +14954,9 @@
             "industrialShare": 0.086,
             "populationIncrease": 1.0693182602862672,
             "population2002": 200578,
-            "population2020": 202746
+            "population2020": 202746,
+            "household2002": 2.14,
+            "household2020": 2.19
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 2139,
@@ -15212,7 +15294,7 @@
     },
     {
         "ins": "52012",
-        "name": "CHÂTELET",
+        "name": "CH\u00c3\u201aTELET",
         "artificialisation": {
             "territory": [
                 {
@@ -15245,7 +15327,9 @@
             "industrialShare": 0.049,
             "populationIncrease": 1.0990243355388563,
             "population2002": 35276,
-            "population2020": 35668
+            "population2020": 35668,
+            "household2002": 2.28,
+            "household2020": 2.23
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 467,
@@ -15616,7 +15700,9 @@
             "industrialShare": 0.040999999999999995,
             "populationIncrease": 5.042151488925217,
             "population2002": 29624,
-            "population2020": 31197
+            "population2020": 31197,
+            "household2002": 2.43,
+            "household2020": 2.31
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 20,
@@ -15987,7 +16073,9 @@
             "industrialShare": 0.052000000000000005,
             "populationIncrease": -0.07107952021323527,
             "population2002": 11263,
-            "population2020": 11255
+            "population2020": 11255,
+            "household2002": 2.58,
+            "household2020": 2.52
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 6,
@@ -16358,7 +16446,9 @@
             "industrialShare": 0.036000000000000004,
             "populationIncrease": 3.1748785565579474,
             "population2002": 22324,
-            "population2020": 23056
+            "population2020": 23056,
+            "household2002": 2.41,
+            "household2020": 2.3
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 84,
@@ -16696,7 +16786,7 @@
     },
     {
         "ins": "52022",
-        "name": "FONTAINE-L'ÉVÊQUE",
+        "name": "FONTAINE-L'\u00c3\u2030V\u00c3\u0160QUE",
         "artificialisation": {
             "territory": [
                 {
@@ -16729,7 +16819,9 @@
             "industrialShare": 0.013000000000000001,
             "populationIncrease": 5.286467092723401,
             "population2002": 16895,
-            "population2020": 17838
+            "population2020": 17838,
+            "household2002": 2.31,
+            "household2020": 2.25
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 22,
@@ -17100,7 +17192,9 @@
             "industrialShare": 0.003,
             "populationIncrease": 5.88694565896315,
             "population2002": 12054,
-            "population2020": 12808
+            "population2020": 12808,
+            "household2002": 2.49,
+            "household2020": 2.26
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 21,
@@ -17471,7 +17565,9 @@
             "industrialShare": 0.011000000000000001,
             "populationIncrease": -1.3916304776944388,
             "population2002": 10273,
-            "population2020": 10132
+            "population2020": 10132,
+            "household2002": 2.33,
+            "household2020": 2.21
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 21,
@@ -17809,7 +17905,7 @@
     },
     {
         "ins": "52055",
-        "name": "PONT-À-CELLES",
+        "name": "PONT-\u00c3\u20ac-CELLES",
         "artificialisation": {
             "territory": [
                 {
@@ -17842,7 +17938,9 @@
             "industrialShare": 0.003,
             "populationIncrease": 7.014086139933918,
             "population2002": 16041,
-            "population2020": 17251
+            "population2020": 17251,
+            "household2002": 2.51,
+            "household2020": 2.4
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 49,
@@ -18213,7 +18311,9 @@
             "industrialShare": 0.037000000000000005,
             "populationIncrease": -0.9963683769438569,
             "population2002": 10846,
-            "population2020": 10739
+            "population2020": 10739,
+            "household2002": 2.53,
+            "household2020": 2.34
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 21,
@@ -18584,7 +18684,9 @@
             "industrialShare": 0.006,
             "populationIncrease": 7.341290799619726,
             "population2002": 8772,
-            "population2020": 9467
+            "population2020": 9467,
+            "household2002": 2.59,
+            "household2020": 2.36
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 8,
@@ -18955,7 +19057,9 @@
             "industrialShare": 0.011000000000000001,
             "populationIncrease": -0.8918673788168796,
             "population2002": 20023,
-            "population2020": 19846
+            "population2020": 19846,
+            "household2002": 2.38,
+            "household2020": 2.22
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 69,
@@ -19326,7 +19430,9 @@
             "industrialShare": 0.013000000000000001,
             "populationIncrease": -1.1143410852713087,
             "population2002": 16696,
-            "population2020": 16512
+            "population2020": 16512,
+            "household2002": 2.34,
+            "household2020": 2.24
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 8,
@@ -19697,7 +19803,9 @@
             "industrialShare": 0.025,
             "populationIncrease": 5.883692335716562,
             "population2002": 20667,
-            "population2020": 21959
+            "population2020": 21959,
+            "household2002": 2.29,
+            "household2020": 2.22
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 6,
@@ -20068,7 +20176,9 @@
             "industrialShare": 0.003,
             "populationIncrease": 1.664476565922035,
             "population2002": 6735,
-            "population2020": 6849
+            "population2020": 6849,
+            "household2002": 2.54,
+            "household2020": 2.29
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 91,
@@ -20439,7 +20549,9 @@
             "industrialShare": 0.002,
             "populationIncrease": 11.08154343280745,
             "population2002": 9356,
-            "population2020": 10522
+            "population2020": 10522,
+            "household2002": 2.56,
+            "household2020": 2.41
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 19,
@@ -20810,7 +20922,9 @@
             "industrialShare": 0.003,
             "populationIncrease": 16.74651567944251,
             "population2002": 3823,
-            "population2020": 4592
+            "population2020": 4592,
+            "household2002": 2.45,
+            "household2020": 2.41
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 5,
@@ -21181,7 +21295,9 @@
             "industrialShare": 0.032,
             "populationIncrease": 5.143554392149097,
             "population2002": 90955,
-            "population2020": 95887
+            "population2020": 95887,
+            "household2002": 2.12,
+            "household2020": 2.07
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 769,
@@ -21552,7 +21668,9 @@
             "industrialShare": 0.027999999999999997,
             "populationIncrease": -0.4651654508933234,
             "population2002": 19006,
-            "population2020": 18918
+            "population2020": 18918,
+            "household2002": 2.4,
+            "household2020": 2.29
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 75,
@@ -21890,7 +22008,7 @@
     },
     {
         "ins": "53068",
-        "name": "QUIÉVRAIN",
+        "name": "QUI\u00c3\u2030VRAIN",
         "artificialisation": {
             "territory": [
                 {
@@ -21923,7 +22041,9 @@
             "industrialShare": 0.005,
             "populationIncrease": 1.3934183219685758,
             "population2002": 6652,
-            "population2020": 6746
+            "population2020": 6746,
+            "household2002": 2.36,
+            "household2020": 2.17
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 136,
@@ -22294,7 +22414,9 @@
             "industrialShare": 0.065,
             "populationIncrease": 6.035513061294173,
             "population2002": 22014,
-            "population2020": 23428
+            "population2020": 23428,
+            "household2002": 2.34,
+            "household2020": 2.17
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 451,
@@ -22665,7 +22787,9 @@
             "industrialShare": 0.017,
             "populationIncrease": 2.545682464683474,
             "population2002": 20213,
-            "population2020": 20741
+            "population2020": 20741,
+            "household2002": 2.39,
+            "household2020": 2.3
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 8,
@@ -23036,7 +23160,9 @@
             "industrialShare": 0.001,
             "populationIncrease": 2.659161490683226,
             "population2002": 5015,
-            "population2020": 5152
+            "population2020": 5152,
+            "household2002": 2.44,
+            "household2020": 2.29
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 46,
@@ -23374,7 +23500,7 @@
     },
     {
         "ins": "53084",
-        "name": "QUÉVY",
+        "name": "QU\u00c3\u2030VY",
         "artificialisation": {
             "territory": [
                 {
@@ -23407,7 +23533,9 @@
             "industrialShare": 0.002,
             "populationIncrease": 5.21954236239951,
             "population2002": 7663,
-            "population2020": 8085
+            "population2020": 8085,
+            "household2002": 2.45,
+            "household2020": 2.35
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 18,
@@ -23778,7 +23906,9 @@
             "industrialShare": 0.004,
             "populationIncrease": 11.80310035354909,
             "population2002": 19458,
-            "population2020": 22062
+            "population2020": 22062,
+            "household2002": 2.4,
+            "household2020": 2.41
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 70,
@@ -24149,7 +24279,9 @@
             "industrialShare": 0.01,
             "populationIncrease": 8.33428734974242,
             "population2002": 8007,
-            "population2020": 8735
+            "population2020": 8735,
+            "household2002": 2.54,
+            "household2020": 2.37
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 22,
@@ -24520,7 +24652,9 @@
             "industrialShare": 0.015,
             "populationIncrease": 12.454458632520959,
             "population2002": 24750,
-            "population2020": 28271
+            "population2020": 28271,
+            "household2002": 2.46,
+            "household2020": 2.36
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 394,
@@ -24858,7 +24992,7 @@
     },
     {
         "ins": "55050",
-        "name": "ÉCAUSSINNES",
+        "name": "\u00c3\u2030CAUSSINNES",
         "artificialisation": {
             "territory": [
                 {
@@ -24891,7 +25025,9 @@
             "industrialShare": 0.057999999999999996,
             "populationIncrease": 12.426352437064814,
             "population2002": 9810,
-            "population2020": 11202
+            "population2020": 11202,
+            "household2002": 2.43,
+            "household2020": 2.38
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 29,
@@ -25262,7 +25398,9 @@
             "industrialShare": 0.051,
             "populationIncrease": 7.691637630662019,
             "population2002": 10597,
-            "population2020": 11480
+            "population2020": 11480,
+            "household2002": 2.51,
+            "household2020": 2.39
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 38,
@@ -25633,7 +25771,9 @@
             "industrialShare": 0.061,
             "populationIncrease": 6.0053779504033455,
             "population2002": 22022,
-            "population2020": 23429
+            "population2020": 23429,
+            "household2002": 2.46,
+            "household2020": 2.37
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 5,
@@ -26004,7 +26144,9 @@
             "industrialShare": 0.015,
             "populationIncrease": 7.08623200129429,
             "population2002": 11486,
-            "population2020": 12362
+            "population2020": 12362,
+            "household2002": 2.35,
+            "household2020": 2.29
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 19,
@@ -26375,7 +26517,9 @@
             "industrialShare": 0.002,
             "populationIncrease": 7.466852756454989,
             "population2002": 6630,
-            "population2020": 7165
+            "population2020": 7165,
+            "household2002": 2.43,
+            "household2020": 2.27
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 10,
@@ -26746,7 +26890,9 @@
             "industrialShare": 0.003,
             "populationIncrease": -1.4497223935842074,
             "population2002": 9867,
-            "population2020": 9726
+            "population2020": 9726,
+            "household2002": 2.47,
+            "household2020": 2.18
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 9,
@@ -27117,7 +27263,9 @@
             "industrialShare": 0.006,
             "populationIncrease": 3.645103144402162,
             "population2002": 9622,
-            "population2020": 9986
+            "population2020": 9986,
+            "household2002": 2.41,
+            "household2020": 2.25
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 43,
@@ -27488,7 +27636,9 @@
             "industrialShare": 0.001,
             "populationIncrease": 14.951164537941397,
             "population2002": 3396,
-            "population2020": 3993
+            "population2020": 3993,
+            "household2002": 2.42,
+            "household2020": 2.15
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 0,
@@ -27859,7 +28009,9 @@
             "industrialShare": 0.003,
             "populationIncrease": 5.482983843245104,
             "population2002": 5499,
-            "population2020": 5818
+            "population2020": 5818,
+            "household2002": 2.48,
+            "household2020": 2.36
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 16,
@@ -28197,7 +28349,7 @@
     },
     {
         "ins": "56049",
-        "name": "MERBES-LE-CHÂTEAU",
+        "name": "MERBES-LE-CH\u00c3\u201aTEAU",
         "artificialisation": {
             "territory": [
                 {
@@ -28230,7 +28382,9 @@
             "industrialShare": 0.004,
             "populationIncrease": 5.151946818613484,
             "population2002": 3995,
-            "population2020": 4212
+            "population2020": 4212,
+            "household2002": 2.5,
+            "household2020": 2.37
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 11,
@@ -28601,7 +28755,9 @@
             "industrialShare": 0.003,
             "populationIncrease": 4.2656688493919575,
             "population2002": 5117,
-            "population2020": 5345
+            "population2020": 5345,
+            "household2002": 2.45,
+            "household2020": 2.3
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 6,
@@ -28972,7 +29128,9 @@
             "industrialShare": 0.006,
             "populationIncrease": 0.19723865877712132,
             "population2002": 14674,
-            "population2020": 14703
+            "population2020": 14703,
+            "household2002": 2.43,
+            "household2020": 2.19
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 182,
@@ -29343,7 +29501,9 @@
             "industrialShare": 0.003,
             "populationIncrease": 2.6282945451875817,
             "population2002": 13263,
-            "population2020": 13621
+            "population2020": 13621,
+            "household2002": 2.47,
+            "household2020": 2.3
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 27,
@@ -29714,7 +29874,9 @@
             "industrialShare": 0.001,
             "populationIncrease": 5.527743012098451,
             "population2002": 4529,
-            "population2020": 4794
+            "population2020": 4794,
+            "household2002": 2.39,
+            "household2020": 2.25
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 18,
@@ -30085,7 +30247,9 @@
             "industrialShare": 0.055999999999999994,
             "populationIncrease": 2.592688618096961,
             "population2002": 7514,
-            "population2020": 7714
+            "population2020": 7714,
+            "household2002": 2.4,
+            "household2020": 2.26
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 66,
@@ -30456,7 +30620,9 @@
             "industrialShare": 0.003,
             "populationIncrease": 4.44561588473028,
             "population2002": 5438,
-            "population2020": 5691
+            "population2020": 5691,
+            "household2002": 2.58,
+            "household2020": 2.41
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 46,
@@ -30827,7 +30993,9 @@
             "industrialShare": 0.013999999999999999,
             "populationIncrease": 8.66931667613099,
             "population2002": 9650,
-            "population2020": 10566
+            "population2020": 10566,
+            "household2002": 2.49,
+            "household2020": 2.37
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 20,
@@ -31198,7 +31366,9 @@
             "industrialShare": 0.018000000000000002,
             "populationIncrease": 9.685818434299598,
             "population2002": 5203,
-            "population2020": 5761
+            "population2020": 5761,
+            "household2002": 2.47,
+            "household2020": 2.32
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 0,
@@ -31536,7 +31706,7 @@
     },
     {
         "ins": "57064",
-        "name": "PÉRUWELZ",
+        "name": "P\u00c3\u2030RUWELZ",
         "artificialisation": {
             "territory": [
                 {
@@ -31569,7 +31739,9 @@
             "industrialShare": 0.013999999999999999,
             "populationIncrease": 1.728971962616821,
             "population2002": 16824,
-            "population2020": 17120
+            "population2020": 17120,
+            "household2002": 2.42,
+            "household2020": 2.25
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 137,
@@ -31940,7 +32112,9 @@
             "industrialShare": 0.002,
             "populationIncrease": 3.084291187739463,
             "population2002": 5059,
-            "population2020": 5220
+            "population2020": 5220,
+            "household2002": 2.53,
+            "household2020": 2.31
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 14,
@@ -32311,7 +32485,9 @@
             "industrialShare": 0.036000000000000004,
             "populationIncrease": 2.6793856665170868,
             "population2002": 67232,
-            "population2020": 69083
+            "population2020": 69083,
+            "household2002": 2.26,
+            "household2020": 2.1
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 792,
@@ -32682,7 +32858,9 @@
             "industrialShare": 0.008,
             "populationIncrease": 6.799357151687479,
             "population2002": 7539,
-            "population2020": 8089
+            "population2020": 8089,
+            "household2002": 2.54,
+            "household2020": 2.4
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 47,
@@ -33053,7 +33231,9 @@
             "industrialShare": 0.011000000000000001,
             "populationIncrease": 5.917796427802879,
             "population2002": 13116,
-            "population2020": 13941
+            "population2020": 13941,
+            "household2002": 2.41,
+            "household2020": 2.24
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 103,
@@ -33424,7 +33604,9 @@
             "industrialShare": 0.004,
             "populationIncrease": 14.093428345209812,
             "population2002": 3255,
-            "population2020": 3789
+            "population2020": 3789,
+            "household2002": 2.47,
+            "household2020": 2.45
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 11,
@@ -33795,7 +33977,9 @@
             "industrialShare": 0.11,
             "populationIncrease": 11.016386747664509,
             "population2002": 52293,
-            "population2020": 58767
+            "population2020": 58767,
+            "household2002": 2.36,
+            "household2020": 2.25
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 127,
@@ -34166,7 +34350,9 @@
             "industrialShare": 0.023,
             "populationIncrease": 3.400155055930887,
             "population2002": 17444,
-            "population2020": 18058
+            "population2020": 18058,
+            "household2002": 2.42,
+            "household2020": 2.26
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 122,
@@ -34504,7 +34690,7 @@
     },
     {
         "ins": "58001",
-        "name": "LA LOUVIÈRE",
+        "name": "LA LOUVI\u00c3\u02c6RE",
         "artificialisation": {
             "territory": [
                 {
@@ -34537,7 +34723,9 @@
             "industrialShare": 0.057999999999999996,
             "populationIncrease": 5.673050851635486,
             "population2002": 76535,
-            "population2020": 81138
+            "population2020": 81138,
+            "household2002": 2.32,
+            "household2020": 2.29
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 163,
@@ -34908,7 +35096,9 @@
             "industrialShare": 0.012,
             "populationIncrease": 3.3006457785218823,
             "population2002": 32344,
-            "population2020": 33448
+            "population2020": 33448,
+            "household2002": 2.34,
+            "household2020": 2.22
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 27,
@@ -35279,7 +35469,9 @@
             "industrialShare": 0.004,
             "populationIncrease": 3.350947287021522,
             "population2002": 7499,
-            "population2020": 7759
+            "population2020": 7759,
+            "household2002": 2.44,
+            "household2020": 2.36
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 29,
@@ -35650,7 +35842,9 @@
             "industrialShare": 0.026000000000000002,
             "populationIncrease": 3.2418300653594745,
             "population2002": 18505,
-            "population2020": 19125
+            "population2020": 19125,
+            "household2002": 2.43,
+            "household2020": 2.3
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 52,
@@ -36021,7 +36215,9 @@
             "industrialShare": 0.027999999999999997,
             "populationIncrease": 9.308621407746775,
             "population2002": 13065,
-            "population2020": 14406
+            "population2020": 14406,
+            "household2002": 2.43,
+            "household2020": 2.29
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 197,
@@ -36392,7 +36588,9 @@
             "industrialShare": 0.002,
             "populationIncrease": 17.804064300879585,
             "population2002": 2710,
-            "population2020": 3297
+            "population2020": 3297,
+            "household2002": 2.53,
+            "household2020": 2.5
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 7,
@@ -36763,7 +36961,9 @@
             "industrialShare": 0.002,
             "populationIncrease": 10.598879793192594,
             "population2002": 4150,
-            "population2020": 4642
+            "population2020": 4642,
+            "household2002": 2.6,
+            "household2020": 2.46
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 3,
@@ -37101,7 +37301,7 @@
     },
     {
         "ins": "61019",
-        "name": "FERRIÈRES",
+        "name": "FERRI\u00c3\u02c6RES",
         "artificialisation": {
             "territory": [
                 {
@@ -37134,7 +37334,9 @@
             "industrialShare": 0.003,
             "populationIncrease": 13.963244107071516,
             "population2002": 4307,
-            "population2020": 5006
+            "population2020": 5006,
+            "household2002": 2.47,
+            "household2020": 2.3
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 14,
@@ -37505,7 +37707,9 @@
             "industrialShare": 0.003,
             "populationIncrease": 7.48829953198128,
             "population2002": 3558,
-            "population2020": 3846
+            "population2020": 3846,
+            "household2002": 2.35,
+            "household2020": 2.21
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 163,
@@ -37843,7 +38047,7 @@
     },
     {
         "ins": "61028",
-        "name": "HÉRON",
+        "name": "H\u00c3\u2030RON",
         "artificialisation": {
             "territory": [
                 {
@@ -37876,7 +38080,9 @@
             "industrialShare": 0.002,
             "populationIncrease": 21.29291453615778,
             "population2002": 4310,
-            "population2020": 5476
+            "population2020": 5476,
+            "household2002": 2.65,
+            "household2020": 2.55
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 0,
@@ -38247,7 +38453,9 @@
             "industrialShare": 0.023,
             "populationIncrease": 9.13927865147377,
             "population2002": 19297,
-            "population2020": 21238
+            "population2020": 21238,
+            "household2002": 2.07,
+            "household2020": 2.03
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 736,
@@ -38618,7 +38826,9 @@
             "industrialShare": 0.005,
             "populationIncrease": 8.049990810512774,
             "population2002": 5003,
-            "population2020": 5441
+            "population2020": 5441,
+            "household2002": 2.53,
+            "household2020": 2.38
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 7,
@@ -38989,7 +39199,9 @@
             "industrialShare": 0.003,
             "populationIncrease": 13.154776013273285,
             "population2002": 3664,
-            "population2020": 4219
+            "population2020": 4219,
+            "household2002": 2.41,
+            "household2020": 2.39
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 6,
@@ -39360,7 +39572,9 @@
             "industrialShare": 0.002,
             "populationIncrease": 6.130600903091354,
             "population2002": 5405,
-            "population2020": 5758
+            "population2020": 5758,
+            "household2002": 2.69,
+            "household2020": 2.45
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 6,
@@ -39731,7 +39945,9 @@
             "industrialShare": 0.004,
             "populationIncrease": 10.225241329996425,
             "population2002": 2511,
-            "population2020": 2797
+            "population2020": 2797,
+            "household2002": 2.56,
+            "household2020": 2.35
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 6,
@@ -40102,7 +40318,9 @@
             "industrialShare": 0.006999999999999999,
             "populationIncrease": 18.961889174655134,
             "population2002": 3466,
-            "population2020": 4277
+            "population2020": 4277,
+            "household2002": 2.7,
+            "household2020": 2.53
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 4,
@@ -40473,7 +40691,9 @@
             "industrialShare": 0.023,
             "populationIncrease": 13.301986955862278,
             "population2002": 5716,
-            "population2020": 6593
+            "population2020": 6593,
+            "household2002": 2.63,
+            "household2020": 2.49
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 4,
@@ -40844,7 +41064,9 @@
             "industrialShare": 0.023,
             "populationIncrease": 10.450804748379582,
             "population2002": 12296,
-            "population2020": 13731
+            "population2020": 13731,
+            "household2002": 2.47,
+            "household2020": 2.33
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 260,
@@ -41215,7 +41437,9 @@
             "industrialShare": 0.005,
             "populationIncrease": 7.027155788470695,
             "population2002": 3903,
-            "population2020": 4198
+            "population2020": 4198,
+            "household2002": 2.55,
+            "household2020": 2.37
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 1,
@@ -41586,7 +41810,9 @@
             "industrialShare": 0.068,
             "populationIncrease": 8.858109196327913,
             "population2002": 5659,
-            "population2020": 6209
+            "population2020": 6209,
+            "household2002": 2.41,
+            "household2020": 2.29
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 64,
@@ -41957,7 +42183,9 @@
             "industrialShare": 0.004,
             "populationIncrease": 19.414990859232173,
             "population2002": 2204,
-            "population2020": 2735
+            "population2020": 2735,
+            "household2002": 2.66,
+            "household2020": 2.53
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 2,
@@ -42328,7 +42556,9 @@
             "industrialShare": 0.061,
             "populationIncrease": 3.53521225260508,
             "population2002": 27587,
-            "population2020": 28598
+            "population2020": 28598,
+            "household2002": 2.29,
+            "household2020": 2.27
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 6,
@@ -42699,7 +42929,9 @@
             "industrialShare": 0.013999999999999999,
             "populationIncrease": 9.639727361246353,
             "population2002": 8352,
-            "population2020": 9243
+            "population2020": 9243,
+            "household2002": 2.49,
+            "household2020": 2.35
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 14,
@@ -43070,7 +43302,9 @@
             "industrialShare": 0.005,
             "populationIncrease": 16.201387768274966,
             "population2002": 10386,
-            "population2020": 12394
+            "population2020": 12394,
+            "household2002": 2.34,
+            "household2020": 2.2
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 188,
@@ -43441,7 +43675,9 @@
             "industrialShare": 0.004,
             "populationIncrease": 7.636322920165717,
             "population2002": 8249,
-            "population2020": 8931
+            "population2020": 8931,
+            "household2002": 2.49,
+            "household2020": 2.28
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 134,
@@ -43812,7 +44048,9 @@
             "industrialShare": 0.034,
             "populationIncrease": 1.1437221427970767,
             "population2002": 11755,
-            "population2020": 11891
+            "population2020": 11891,
+            "household2002": 2.35,
+            "household2020": 2.28
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 2,
@@ -44183,7 +44421,9 @@
             "industrialShare": 0.012,
             "populationIncrease": 0.9110525053943941,
             "population2002": 20665,
-            "population2020": 20855
+            "population2020": 20855,
+            "household2002": 2.4,
+            "household2020": 2.21
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 107,
@@ -44554,7 +44794,9 @@
             "industrialShare": 0.006,
             "populationIncrease": 4.077094143810234,
             "population2002": 5176,
-            "population2020": 5396
+            "population2020": 5396,
+            "household2002": 2.39,
+            "household2020": 2.27
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 41,
@@ -44925,7 +45167,9 @@
             "industrialShare": 0.005,
             "populationIncrease": 16.296394838366368,
             "population2002": 6292,
-            "population2020": 7517
+            "population2020": 7517,
+            "household2002": 2.66,
+            "household2020": 2.35
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 20,
@@ -45296,7 +45540,9 @@
             "industrialShare": 0.004,
             "populationIncrease": -0.8912792931233149,
             "population2002": 13131,
-            "population2020": 13015
+            "population2020": 13015,
+            "household2002": 2.27,
+            "household2020": 2.1
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 377,
@@ -45634,7 +45880,7 @@
     },
     {
         "ins": "62038",
-        "name": "FLÉRON",
+        "name": "FL\u00c3\u2030RON",
         "artificialisation": {
             "territory": [
                 {
@@ -45667,7 +45913,9 @@
             "industrialShare": 0.019,
             "populationIncrease": 3.054367745876607,
             "population2002": 15870,
-            "population2020": 16370
+            "population2020": 16370,
+            "household2002": 2.37,
+            "household2020": 2.22
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 8,
@@ -46038,7 +46286,9 @@
             "industrialShare": 0.174,
             "populationIncrease": 9.532221945757646,
             "population2002": 36359,
-            "population2020": 40190
+            "population2020": 40190,
+            "household2002": 2.25,
+            "household2020": 2.33
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 86,
@@ -46409,7 +46659,9 @@
             "industrialShare": 0.004,
             "populationIncrease": 13.608903020667729,
             "population2002": 8151,
-            "population2020": 9435
+            "population2020": 9435,
+            "household2002": 2.49,
+            "household2020": 2.4
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 3,
@@ -46747,7 +46999,7 @@
     },
     {
         "ins": "62063",
-        "name": "LIÈGE",
+        "name": "LI\u00c3\u02c6GE",
         "artificialisation": {
             "territory": [
                 {
@@ -46780,7 +47032,9 @@
             "industrialShare": 0.068,
             "populationIncrease": 6.128274945871803,
             "population2002": 185131,
-            "population2020": 197217
+            "population2020": 197217,
+            "household2002": 1.89,
+            "household2020": 1.94
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 4425,
@@ -47151,7 +47405,9 @@
             "industrialShare": 0.055,
             "populationIncrease": 7.31017135670492,
             "population2002": 23584,
-            "population2020": 25444
+            "population2020": 25444,
+            "household2002": 2.4,
+            "household2020": 2.26
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 60,
@@ -47522,7 +47778,9 @@
             "industrialShare": 0.027000000000000003,
             "populationIncrease": 5.631139792017759,
             "population2002": 22959,
-            "population2020": 24329
+            "population2020": 24329,
+            "household2002": 2.3,
+            "household2020": 2.29
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 82,
@@ -47893,7 +48151,9 @@
             "industrialShare": 0.09,
             "populationIncrease": 5.89637337986042,
             "population2002": 60407,
-            "population2020": 64192
+            "population2020": 64192,
+            "household2002": 2.14,
+            "household2020": 2.16
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 924,
@@ -48264,7 +48524,9 @@
             "industrialShare": 0.024,
             "populationIncrease": 12.75821596244131,
             "population2002": 14866,
-            "population2020": 17040
+            "population2020": 17040,
+            "household2002": 2.57,
+            "household2020": 2.36
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 40,
@@ -48635,7 +48897,9 @@
             "industrialShare": 0.012,
             "populationIncrease": 15.688510295794488,
             "population2002": 12570,
-            "population2020": 14909
+            "population2020": 14909,
+            "household2002": 2.63,
+            "household2020": 2.34
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 20,
@@ -48973,7 +49237,7 @@
     },
     {
         "ins": "62108",
-        "name": "VISÉ",
+        "name": "VIS\u00c3\u2030",
         "artificialisation": {
             "territory": [
                 {
@@ -49006,7 +49270,9 @@
             "industrialShare": 0.042,
             "populationIncrease": 6.38737030012273,
             "population2002": 16781,
-            "population2020": 17926
+            "population2020": 17926,
+            "household2002": 2.43,
+            "household2020": 2.27
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 19,
@@ -49344,7 +49610,7 @@
     },
     {
         "ins": "62118",
-        "name": "GRÂCE-HOLLOGNE",
+        "name": "GR\u00c3\u201aCE-HOLLOGNE",
         "artificialisation": {
             "territory": [
                 {
@@ -49377,7 +49643,9 @@
             "industrialShare": 0.059000000000000004,
             "populationIncrease": 3.189764711037113,
             "population2002": 22095,
-            "population2020": 22823
+            "population2020": 22823,
+            "household2002": 2.27,
+            "household2020": 2.34
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 58,
@@ -49715,7 +49983,7 @@
     },
     {
         "ins": "62119",
-        "name": "BLÉGNY",
+        "name": "BL\u00c3\u2030GNY",
         "artificialisation": {
             "territory": [
                 {
@@ -49748,7 +50016,9 @@
             "industrialShare": 0.016,
             "populationIncrease": 6.581011428998284,
             "population2002": 12506,
-            "population2020": 13387
+            "population2020": 13387,
+            "household2002": 2.58,
+            "household2020": 2.34
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 6,
@@ -50086,7 +50356,7 @@
     },
     {
         "ins": "62120",
-        "name": "FLÉMALLE",
+        "name": "FL\u00c3\u2030MALLE",
         "artificialisation": {
             "territory": [
                 {
@@ -50119,7 +50389,9 @@
             "industrialShare": 0.040999999999999995,
             "populationIncrease": 3.3650384629959507,
             "population2002": 25501,
-            "population2020": 26389
+            "population2020": 26389,
+            "household2002": 2.26,
+            "household2020": 2.22
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 178,
@@ -50457,7 +50729,7 @@
     },
     {
         "ins": "62121",
-        "name": "NEUPRÉ",
+        "name": "NEUPR\u00c3\u2030",
         "artificialisation": {
             "territory": [
                 {
@@ -50490,7 +50762,9 @@
             "industrialShare": 0.003,
             "populationIncrease": 2.8164778991680905,
             "population2002": 9696,
-            "population2020": 9977
+            "population2020": 9977,
+            "household2002": 2.49,
+            "household2020": 2.32
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 6,
@@ -50861,7 +51135,9 @@
             "industrialShare": 0.016,
             "populationIncrease": 7.713631433048085,
             "population2002": 7657,
-            "population2020": 8297
+            "population2020": 8297,
+            "household2002": 2.42,
+            "household2020": 2.26
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 157,
@@ -51232,7 +51508,9 @@
             "industrialShare": 0.006999999999999999,
             "populationIncrease": 6.6897557418884475,
             "population2002": 5119,
-            "population2020": 5486
+            "population2020": 5486,
+            "household2002": 2.8,
+            "household2020": 2.43
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 6,
@@ -51603,7 +51881,9 @@
             "industrialShare": 0.013000000000000001,
             "populationIncrease": 7.418747056052755,
             "population2002": 3931,
-            "population2020": 4246
+            "population2020": 4246,
+            "household2002": 2.6,
+            "household2020": 2.31
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 23,
@@ -51974,7 +52254,9 @@
             "industrialShare": 0.005,
             "populationIncrease": 13.34967684421663,
             "population2002": 3888,
-            "population2020": 4487
+            "population2020": 4487,
+            "household2002": 2.6,
+            "household2020": 2.33
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 1,
@@ -52312,7 +52594,7 @@
     },
     {
         "ins": "63012",
-        "name": "BÜLLINGEN",
+        "name": "B\u00c3\u0153LLINGEN",
         "artificialisation": {
             "territory": [
                 {
@@ -52345,7 +52627,9 @@
             "industrialShare": 0.003,
             "populationIncrease": 1.7595307917888547,
             "population2002": 5360,
-            "population2020": 5456
+            "population2020": 5456,
+            "household2002": 2.64,
+            "household2020": 2.33
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 5,
@@ -52683,7 +52967,7 @@
     },
     {
         "ins": "63013",
-        "name": "BÜTGENBACH",
+        "name": "B\u00c3\u0153TGENBACH",
         "artificialisation": {
             "territory": [
                 {
@@ -52716,7 +53000,9 @@
             "industrialShare": 0.004,
             "populationIncrease": 2.060756795167884,
             "population2002": 5513,
-            "population2020": 5629
+            "population2020": 5629,
+            "household2002": 2.65,
+            "household2020": 2.31
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 4,
@@ -53087,7 +53373,9 @@
             "industrialShare": 0.046,
             "populationIncrease": 8.161258603736476,
             "population2002": 14010,
-            "population2020": 15255
+            "population2020": 15255,
+            "household2002": 2.32,
+            "household2020": 2.44
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 1,
@@ -53458,7 +53746,9 @@
             "industrialShare": 0.015,
             "populationIncrease": 10.90982694059306,
             "population2002": 17606,
-            "population2020": 19762
+            "population2020": 19762,
+            "household2002": 2.22,
+            "household2020": 2.14
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 51,
@@ -53829,7 +54119,9 @@
             "industrialShare": 0.024,
             "populationIncrease": 5.8796821793416605,
             "population2002": 16584,
-            "population2020": 17620
+            "population2020": 17620,
+            "household2002": 2.6,
+            "household2020": 2.35
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 4,
@@ -54200,7 +54492,9 @@
             "industrialShare": 0.001,
             "populationIncrease": 11.640696608615952,
             "population2002": 7712,
-            "population2020": 8728
+            "population2020": 8728,
+            "household2002": 2.68,
+            "household2020": 2.39
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 6,
@@ -54571,7 +54865,9 @@
             "industrialShare": 0.009000000000000001,
             "populationIncrease": 10.087406350338924,
             "population2002": 10081,
-            "population2020": 11212
+            "population2020": 11212,
+            "household2002": 2.26,
+            "household2020": 2.17
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 12,
@@ -54942,7 +55238,9 @@
             "industrialShare": 0.001,
             "populationIncrease": 6.2657342657342685,
             "population2002": 3351,
-            "population2020": 3575
+            "population2020": 3575,
+            "household2002": 2.49,
+            "household2020": 2.28
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 6,
@@ -55313,7 +55611,9 @@
             "industrialShare": 0.018000000000000002,
             "populationIncrease": 6.790855207451307,
             "population2002": 5504,
-            "population2020": 5905
+            "population2020": 5905,
+            "household2002": 2.45,
+            "household2020": 2.34
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 77,
@@ -55684,7 +55984,9 @@
             "industrialShare": 0.012,
             "populationIncrease": 13.543631064632267,
             "population2002": 5043,
-            "population2020": 5833
+            "population2020": 5833,
+            "household2002": 2.54,
+            "household2020": 2.37
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 8,
@@ -56055,7 +56357,9 @@
             "industrialShare": 0.006999999999999999,
             "populationIncrease": 10.96350707196999,
             "population2002": 11394,
-            "population2020": 12797
+            "population2020": 12797,
+            "household2002": 2.37,
+            "household2020": 2.18
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 62,
@@ -56426,7 +56730,9 @@
             "industrialShare": 0.015,
             "populationIncrease": 5.649157581764119,
             "population2002": 3808,
-            "population2020": 4036
+            "population2020": 4036,
+            "household2002": 2.66,
+            "household2020": 2.37
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 2,
@@ -56797,7 +57103,9 @@
             "industrialShare": 0.008,
             "populationIncrease": 3.796554214381509,
             "population2002": 9325,
-            "population2020": 9693
+            "population2020": 9693,
+            "household2002": 2.49,
+            "household2020": 2.32
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 222,
@@ -57168,7 +57476,9 @@
             "industrialShare": 0.01,
             "populationIncrease": 10.177481974486968,
             "population2002": 9717,
-            "population2020": 10818
+            "population2020": 10818,
+            "household2002": 2.38,
+            "household2020": 2.27
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 8,
@@ -57539,7 +57849,9 @@
             "industrialShare": 0.008,
             "populationIncrease": 7.730851825340013,
             "population2002": 9023,
-            "population2020": 9779
+            "population2020": 9779,
+            "household2002": 2.63,
+            "household2020": 2.26
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 20,
@@ -57910,7 +58222,9 @@
             "industrialShare": 0.004,
             "populationIncrease": -2.41403093900876,
             "population2002": 10394,
-            "population2020": 10149
+            "population2020": 10149,
+            "household2002": 2.14,
+            "household2020": 1.98
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 373,
@@ -58281,7 +58595,9 @@
             "industrialShare": 0.011000000000000001,
             "populationIncrease": 7.297637354955966,
             "population2002": 6631,
-            "population2020": 7153
+            "population2020": 7153,
+            "household2002": 2.46,
+            "household2020": 2.24
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 63,
@@ -58652,7 +58968,9 @@
             "industrialShare": 0.001,
             "populationIncrease": 6.836798991808446,
             "population2002": 2957,
-            "population2020": 3174
+            "population2020": 3174,
+            "household2002": 2.51,
+            "household2020": 2.31
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 9,
@@ -59023,7 +59341,9 @@
             "industrialShare": 0.002,
             "populationIncrease": 4.5621045621045635,
             "population2002": 11464,
-            "population2020": 12012
+            "population2020": 12012,
+            "household2002": 2.6,
+            "household2020": 2.33
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 294,
@@ -59394,7 +59714,9 @@
             "industrialShare": 0.047,
             "populationIncrease": 4.105624886959669,
             "population2002": 53020,
-            "population2020": 55290
+            "population2020": 55290,
+            "household2002": 2.21,
+            "household2020": 2.21
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 49,
@@ -59765,7 +60087,9 @@
             "industrialShare": 0.006999999999999999,
             "populationIncrease": 11.112616885756877,
             "population2002": 6559,
-            "population2020": 7379
+            "population2020": 7379,
+            "household2002": 2.63,
+            "household2020": 2.34
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 6,
@@ -60136,7 +60460,9 @@
             "industrialShare": 0.034,
             "populationIncrease": 11.720301946762014,
             "population2002": 8888,
-            "population2020": 10068
+            "population2020": 10068,
+            "household2002": 2.5,
+            "household2020": 2.29
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 40,
@@ -60507,7 +60833,9 @@
             "industrialShare": 0.013999999999999999,
             "populationIncrease": 6.423815119467291,
             "population2002": 2389,
-            "population2020": 2553
+            "population2020": 2553,
+            "household2002": 2.38,
+            "household2020": 2.19
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 55,
@@ -60878,7 +61206,9 @@
             "industrialShare": 0.001,
             "populationIncrease": 3.7493709109209905,
             "population2002": 3825,
-            "population2020": 3974
+            "population2020": 3974,
+            "household2002": 2.66,
+            "household2020": 2.4
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 22,
@@ -61216,7 +61546,7 @@
     },
     {
         "ins": "63088",
-        "name": "PLOMBIÈRES",
+        "name": "PLOMBI\u00c3\u02c6RES",
         "artificialisation": {
             "territory": [
                 {
@@ -61249,7 +61579,9 @@
             "industrialShare": 0.006,
             "populationIncrease": 10.363826351287164,
             "population2002": 9436,
-            "population2020": 10527
+            "population2020": 10527,
+            "household2002": 2.52,
+            "household2020": 2.31
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 20,
@@ -61620,7 +61952,9 @@
             "industrialShare": 0.036000000000000004,
             "populationIncrease": 7.269846857947549,
             "population2002": 5268,
-            "population2020": 5681
+            "population2020": 5681,
+            "household2002": 2.94,
+            "household2020": 2.52
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 1,
@@ -61991,7 +62325,9 @@
             "industrialShare": 0.002,
             "populationIncrease": 15.438596491228074,
             "population2002": 2651,
-            "population2020": 3135
+            "population2020": 3135,
+            "household2002": 2.51,
+            "household2020": 2.45
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 5,
@@ -62362,7 +62698,9 @@
             "industrialShare": 0.003,
             "populationIncrease": 14.5986543576905,
             "population2002": 5458,
-            "population2020": 6391
+            "population2020": 6391,
+            "household2002": 2.56,
+            "household2020": 2.52
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 11,
@@ -62700,7 +63038,7 @@
     },
     {
         "ins": "64021",
-        "name": "CRISNÉE",
+        "name": "CRISN\u00c3\u2030E",
         "artificialisation": {
             "territory": [
                 {
@@ -62733,7 +63071,9 @@
             "industrialShare": 0.006,
             "populationIncrease": 24.098124098124096,
             "population2002": 2630,
-            "population2020": 3465
+            "population2020": 3465,
+            "household2002": 2.51,
+            "household2020": 2.38
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 9,
@@ -63104,7 +63444,9 @@
             "industrialShare": 0.002,
             "populationIncrease": 9.747409326424872,
             "population2002": 2787,
-            "population2020": 3088
+            "population2020": 3088,
+            "household2002": 2.72,
+            "household2020": 2.39
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 5,
@@ -63475,7 +63817,9 @@
             "industrialShare": 0.005,
             "populationIncrease": 6.560945273631846,
             "population2002": 3005,
-            "population2020": 3216
+            "population2020": 3216,
+            "household2002": 2.56,
+            "household2020": 2.36
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 0,
@@ -63846,7 +64190,9 @@
             "industrialShare": 0.024,
             "populationIncrease": 24.065554916618748,
             "population2002": 2641,
-            "population2020": 3478
+            "population2020": 3478,
+            "household2002": 2.7,
+            "household2020": 2.53
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 12,
@@ -64217,7 +64563,9 @@
             "industrialShare": 0.006,
             "populationIncrease": 19.406652682049742,
             "population2002": 13447,
-            "population2020": 16685
+            "population2020": 16685,
+            "household2002": 2.53,
+            "household2020": 2.36
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 13,
@@ -64588,7 +64936,9 @@
             "industrialShare": 0.003,
             "populationIncrease": 12.317073170731707,
             "population2002": 2876,
-            "population2020": 3280
+            "population2020": 3280,
+            "household2002": 2.58,
+            "household2020": 2.41
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 6,
@@ -64959,7 +65309,9 @@
             "industrialShare": 0.023,
             "populationIncrease": 12.730532786885252,
             "population2002": 3407,
-            "population2020": 3904
+            "population2020": 3904,
+            "household2002": 2.33,
+            "household2020": 2.31
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 5,
@@ -65330,7 +65682,9 @@
             "industrialShare": 0.004,
             "populationIncrease": 17.665773610180846,
             "population2002": 4917,
-            "population2020": 5972
+            "population2020": 5972,
+            "household2002": 2.53,
+            "household2020": 2.42
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 6,
@@ -65701,7 +66055,9 @@
             "industrialShare": 0.013999999999999999,
             "populationIncrease": 5.5603697284806515,
             "population2002": 6539,
-            "population2020": 6924
+            "population2020": 6924,
+            "household2002": 2.44,
+            "household2020": 2.3
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 9,
@@ -66072,7 +66428,9 @@
             "industrialShare": 0.021,
             "populationIncrease": 12.872312872312875,
             "population2002": 13456,
-            "population2020": 15444
+            "population2020": 15444,
+            "household2002": 2.32,
+            "household2020": 2.17
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 9,
@@ -66443,7 +66801,9 @@
             "industrialShare": 0.005,
             "populationIncrease": 21.21926574604244,
             "population2002": 2339,
-            "population2020": 2969
+            "population2020": 2969,
+            "household2002": 2.57,
+            "household2020": 2.47
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 9,
@@ -66814,7 +67174,9 @@
             "industrialShare": 0.001,
             "populationIncrease": 18.05485017775521,
             "population2002": 3227,
-            "population2020": 3938
+            "population2020": 3938,
+            "household2002": 2.56,
+            "household2020": 2.56
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 0,
@@ -67185,7 +67547,9 @@
             "industrialShare": 0.006999999999999999,
             "populationIncrease": 16.02340347727802,
             "population2002": 25261,
-            "population2020": 30081
+            "population2020": 30081,
+            "household2002": 2.33,
+            "household2020": 2.19
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 40,
@@ -67556,7 +67920,9 @@
             "industrialShare": 0.002,
             "populationIncrease": 24.99114417286574,
             "population2002": 4235,
-            "population2020": 5646
+            "population2020": 5646,
+            "household2002": 2.83,
+            "household2020": 2.71
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 8,
@@ -67927,7 +68293,9 @@
             "industrialShare": 0.028999999999999998,
             "populationIncrease": 13.75831097632101,
             "population2002": 14787,
-            "population2020": 17146
+            "population2020": 17146,
+            "household2002": 2.39,
+            "household2020": 2.35
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 406,
@@ -68298,7 +68666,9 @@
             "industrialShare": 0.001,
             "populationIncrease": 21.16316639741519,
             "population2002": 1464,
-            "population2020": 1857
+            "population2020": 1857,
+            "household2002": 2.3,
+            "household2020": 2.29
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 14,
@@ -68669,7 +69039,9 @@
             "industrialShare": 0.008,
             "populationIncrease": 15.291555770626664,
             "population2002": 7002,
-            "population2020": 8266
+            "population2020": 8266,
+            "household2002": 2.63,
+            "household2020": 2.39
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 69,
@@ -69040,7 +69412,9 @@
             "industrialShare": 0.006999999999999999,
             "populationIncrease": 15.58736790366183,
             "population2002": 13739,
-            "population2020": 16276
+            "population2020": 16276,
+            "household2002": 2.66,
+            "household2020": 2.37
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 33,
@@ -69411,7 +69785,9 @@
             "industrialShare": 0.001,
             "populationIncrease": 23.769146608315094,
             "population2002": 2787,
-            "population2020": 3656
+            "population2020": 3656,
+            "household2002": 2.75,
+            "household2020": 2.6
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 2,
@@ -69782,7 +70158,9 @@
             "industrialShare": 0.001,
             "populationIncrease": 18.930573523070294,
             "population2002": 1880,
-            "population2020": 2319
+            "population2020": 2319,
+            "household2002": 2.71,
+            "household2020": 2.52
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 4,
@@ -70153,7 +70531,9 @@
             "industrialShare": 0.002,
             "populationIncrease": 12.329556366429806,
             "population2002": 4565,
-            "population2020": 5207
+            "population2020": 5207,
+            "household2002": 2.5,
+            "household2020": 2.24
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 83,
@@ -70524,7 +70904,9 @@
             "industrialShare": 0.006999999999999999,
             "populationIncrease": 8.014202383971591,
             "population2002": 7254,
-            "population2020": 7886
+            "population2020": 7886,
+            "household2002": 2.44,
+            "household2020": 2.25
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 64,
@@ -70862,7 +71244,7 @@
     },
     {
         "ins": "82036",
-        "name": "VAUX-SUR-SÛRE",
+        "name": "VAUX-SUR-S\u00c3\u203aRE",
         "artificialisation": {
             "territory": [
                 {
@@ -70895,7 +71277,9 @@
             "industrialShare": 0.003,
             "populationIncrease": 24.57272410184862,
             "population2002": 4325,
-            "population2020": 5734
+            "population2020": 5734,
+            "household2002": 2.85,
+            "household2020": 2.63
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 12,
@@ -71266,7 +71650,9 @@
             "industrialShare": 0.003,
             "populationIncrease": 12.562534741523068,
             "population2002": 4719,
-            "population2020": 5397
+            "population2020": 5397,
+            "household2002": 2.58,
+            "household2020": 2.41
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 12,
@@ -71637,7 +72023,9 @@
             "industrialShare": 0.002,
             "populationIncrease": 14.26380368098159,
             "population2002": 2236,
-            "population2020": 2608
+            "population2020": 2608,
+            "household2002": 2.57,
+            "household2020": 2.43
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 5,
@@ -72008,7 +72396,9 @@
             "industrialShare": 0.002,
             "populationIncrease": 12.602548437772732,
             "population2002": 10014,
-            "population2020": 11458
+            "population2020": 11458,
+            "household2002": 2.41,
+            "household2020": 2.2
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 329,
@@ -72346,7 +72736,7 @@
     },
     {
         "ins": "83013",
-        "name": "ÉREZÉE",
+        "name": "\u00c3\u2030REZ\u00c3\u2030E",
         "artificialisation": {
             "territory": [
                 {
@@ -72379,7 +72769,9 @@
             "industrialShare": 0.001,
             "populationIncrease": 13.896541169268438,
             "population2002": 2813,
-            "population2020": 3267
+            "population2020": 3267,
+            "household2002": 2.46,
+            "household2020": 2.26
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 15,
@@ -72750,7 +73142,9 @@
             "industrialShare": 0.005,
             "populationIncrease": 10.842945874001774,
             "population2002": 5024,
-            "population2020": 5635
+            "population2020": 5635,
+            "household2002": 2.67,
+            "household2020": 2.31
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 124,
@@ -73121,7 +73515,9 @@
             "industrialShare": 0.001,
             "populationIncrease": 1.7891221374045752,
             "population2002": 4117,
-            "population2020": 4192
+            "population2020": 4192,
+            "household2002": 2.29,
+            "household2020": 2.13
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 298,
@@ -73492,7 +73888,9 @@
             "industrialShare": 0.015,
             "populationIncrease": 5.50849866408959,
             "population2002": 16622,
-            "population2020": 17591
+            "population2020": 17591,
+            "household2002": 2.58,
+            "household2020": 2.27
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 118,
@@ -73863,7 +74261,9 @@
             "industrialShare": 0.001,
             "populationIncrease": 13.505747126436784,
             "population2002": 4816,
-            "population2020": 5568
+            "population2020": 5568,
+            "household2002": 2.58,
+            "household2020": 2.34
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 30,
@@ -74234,7 +74634,9 @@
             "industrialShare": 0.003,
             "populationIncrease": 16.243847027641046,
             "population2002": 2212,
-            "population2020": 2641
+            "population2020": 2641,
+            "household2002": 2.43,
+            "household2020": 2.3
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 30,
@@ -74605,7 +75007,9 @@
             "industrialShare": 0.003,
             "populationIncrease": 12.25421348314607,
             "population2002": 2499,
-            "population2020": 2848
+            "population2020": 2848,
+            "household2002": 2.65,
+            "household2020": 2.39
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 9,
@@ -74976,7 +75380,9 @@
             "industrialShare": 0.003,
             "populationIncrease": 16.437972556706804,
             "population2002": 2984,
-            "population2020": 3571
+            "population2020": 3571,
+            "household2002": 2.58,
+            "household2020": 2.36
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 1,
@@ -75347,7 +75753,9 @@
             "industrialShare": 0.005,
             "populationIncrease": 8.67254635911352,
             "population2002": 8077,
-            "population2020": 8844
+            "population2020": 8844,
+            "household2002": 2.52,
+            "household2020": 2.26
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 13,
@@ -75718,7 +76126,9 @@
             "industrialShare": 0.002,
             "populationIncrease": 0.6264971439100764,
             "population2002": 5393,
-            "population2020": 5427
+            "population2020": 5427,
+            "household2002": 2.25,
+            "household2020": 2.05
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 221,
@@ -76089,7 +76499,9 @@
             "industrialShare": 0.001,
             "populationIncrease": 1.953690303907385,
             "population2002": 1355,
-            "population2020": 1382
+            "population2020": 1382,
+            "household2002": 2.31,
+            "household2020": 2.28
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 4,
@@ -76460,7 +76872,9 @@
             "industrialShare": 0,
             "populationIncrease": 8.853850818677989,
             "population2002": 1503,
-            "population2020": 1649
+            "population2020": 1649,
+            "household2002": 2.35,
+            "household2020": 2.29
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 0,
@@ -76798,7 +77212,7 @@
     },
     {
         "ins": "84033",
-        "name": "LÉGLISE",
+        "name": "L\u00c3\u2030GLISE",
         "artificialisation": {
             "territory": [
                 {
@@ -76831,7 +77245,9 @@
             "industrialShare": 0.001,
             "populationIncrease": 32.05474518278408,
             "population2002": 3773,
-            "population2020": 5553
+            "population2020": 5553,
+            "household2002": 2.7,
+            "household2020": 2.69
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 3,
@@ -77202,7 +77618,9 @@
             "industrialShare": 0.003,
             "populationIncrease": 16.720686367969495,
             "population2002": 4368,
-            "population2020": 5245
+            "population2020": 5245,
+            "household2002": 2.55,
+            "household2020": 2.37
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 26,
@@ -77540,7 +77958,7 @@
     },
     {
         "ins": "84043",
-        "name": "NEUFCHÂTEAU",
+        "name": "NEUFCH\u00c3\u201aTEAU",
         "artificialisation": {
             "territory": [
                 {
@@ -77573,7 +77991,9 @@
             "industrialShare": 0.003,
             "populationIncrease": 18.896728672225784,
             "population2002": 6322,
-            "population2020": 7795
+            "population2020": 7795,
+            "household2002": 2.59,
+            "household2020": 2.46
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 11,
@@ -77944,7 +78364,9 @@
             "industrialShare": 0.003,
             "populationIncrease": 6.824925816023741,
             "population2002": 5024,
-            "population2020": 5392
+            "population2020": 5392,
+            "household2002": 2.6,
+            "household2020": 2.32
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 10,
@@ -78315,7 +78737,9 @@
             "industrialShare": 0.002,
             "populationIncrease": -0.7314897413024157,
             "population2002": 5646,
-            "population2020": 5605
+            "population2020": 5605,
+            "household2002": 2.47,
+            "household2020": 2.23
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 38,
@@ -78686,7 +79110,9 @@
             "industrialShare": 0.001,
             "populationIncrease": 6.590257879656159,
             "population2002": 2282,
-            "population2020": 2443
+            "population2020": 2443,
+            "household2002": 2.54,
+            "household2020": 2.32
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 4,
@@ -79057,7 +79483,9 @@
             "industrialShare": 0.003,
             "populationIncrease": 7.207207207207212,
             "population2002": 2884,
-            "population2020": 3108
+            "population2020": 3108,
+            "household2002": 2.67,
+            "household2020": 2.32
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 7,
@@ -79428,7 +79856,9 @@
             "industrialShare": 0.006999999999999999,
             "populationIncrease": 16.855123674911667,
             "population2002": 9412,
-            "population2020": 11320
+            "population2020": 11320,
+            "household2002": 2.63,
+            "household2020": 2.35
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 15,
@@ -79799,7 +80229,9 @@
             "industrialShare": 0.002,
             "populationIncrease": 6.8886337543053955,
             "population2002": 4866,
-            "population2020": 5226
+            "population2020": 5226,
+            "household2002": 2.45,
+            "household2020": 2.33
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 25,
@@ -80137,7 +80569,7 @@
     },
     {
         "ins": "85009",
-        "name": "ÉTALLE",
+        "name": "\u00c3\u2030TALLE",
         "artificialisation": {
             "territory": [
                 {
@@ -80170,7 +80602,9 @@
             "industrialShare": 0.005,
             "populationIncrease": 14.947156517362858,
             "population2002": 5070,
-            "population2020": 5961
+            "population2020": 5961,
+            "household2002": 2.72,
+            "household2020": 2.52
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 35,
@@ -80541,7 +80975,9 @@
             "industrialShare": 0.002,
             "populationIncrease": 1.6088666428316079,
             "population2002": 5504,
-            "population2020": 5594
+            "population2020": 5594,
+            "household2002": 2.29,
+            "household2020": 2.12
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 22,
@@ -80912,7 +81348,9 @@
             "industrialShare": 0.001,
             "populationIncrease": 3.3096085409252685,
             "population2002": 2717,
-            "population2020": 2810
+            "population2020": 2810,
+            "household2002": 2.48,
+            "household2020": 2.35
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 13,
@@ -81283,7 +81721,9 @@
             "industrialShare": 0.001,
             "populationIncrease": 13.75831723545825,
             "population2002": 4018,
-            "population2020": 4659
+            "population2020": 4659,
+            "household2002": 2.62,
+            "household2020": 2.48
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 23,
@@ -81621,7 +82061,7 @@
     },
     {
         "ins": "85034",
-        "name": "SAINT-LÉGER",
+        "name": "SAINT-L\u00c3\u2030GER",
         "artificialisation": {
             "territory": [
                 {
@@ -81654,7 +82094,9 @@
             "industrialShare": 0.001,
             "populationIncrease": 12.746170678336977,
             "population2002": 3190,
-            "population2020": 3656
+            "population2020": 3656,
+            "household2002": 2.67,
+            "household2020": 2.51
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 16,
@@ -82025,7 +82467,9 @@
             "industrialShare": 0.001,
             "populationIncrease": 19.827986982798695,
             "population2002": 3449,
-            "population2020": 4302
+            "population2020": 4302,
+            "household2002": 2.55,
+            "household2020": 2.45
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 13,
@@ -82396,7 +82840,9 @@
             "industrialShare": 0.011000000000000001,
             "populationIncrease": 3.5799312229962132,
             "population2002": 10935,
-            "population2020": 11341
+            "population2020": 11341,
+            "household2002": 2.4,
+            "household2020": 2.25
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 77,
@@ -82767,7 +83213,9 @@
             "industrialShare": 0.004,
             "populationIncrease": 13.731272855963194,
             "population2002": 7313,
-            "population2020": 8477
+            "population2020": 8477,
+            "household2002": 2.64,
+            "household2020": 2.51
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 10,
@@ -83138,7 +83586,9 @@
             "industrialShare": 0.019,
             "populationIncrease": 7.7141504969238,
             "population2002": 1950,
-            "population2020": 2113
+            "population2020": 2113,
+            "household2002": 2.61,
+            "household2020": 2.3
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 15,
@@ -83476,7 +83926,7 @@
     },
     {
         "ins": "91005",
-        "name": "ANHÉE",
+        "name": "ANH\u00c3\u2030E",
         "artificialisation": {
             "territory": [
                 {
@@ -83509,7 +83959,9 @@
             "industrialShare": 0.003,
             "populationIncrease": 4.829903401931956,
             "population2002": 6798,
-            "population2020": 7143
+            "population2020": 7143,
+            "household2002": 2.41,
+            "household2020": 2.29
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 84,
@@ -83880,7 +84332,9 @@
             "industrialShare": 0.002,
             "populationIncrease": 11.237304794146553,
             "population2002": 8128,
-            "population2020": 9157
+            "population2020": 9157,
+            "household2002": 2.5,
+            "household2020": 2.24
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 22,
@@ -84218,7 +84672,7 @@
     },
     {
         "ins": "91015",
-        "name": "BIÈVRE",
+        "name": "BI\u00c3\u02c6VRE",
         "artificialisation": {
             "territory": [
                 {
@@ -84251,7 +84705,9 @@
             "industrialShare": 0.003,
             "populationIncrease": 6.5437239738251,
             "population2002": 3142,
-            "population2020": 3362
+            "population2020": 3362,
+            "household2002": 2.58,
+            "household2020": 2.35
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 15,
@@ -84622,7 +85078,9 @@
             "industrialShare": 0.008,
             "populationIncrease": 12.07350652460194,
             "population2002": 14689,
-            "population2020": 16706
+            "population2020": 16706,
+            "household2002": 2.43,
+            "household2020": 2.19
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 48,
@@ -84993,7 +85451,9 @@
             "industrialShare": 0.003,
             "populationIncrease": 4.56856587408404,
             "population2002": 12763,
-            "population2020": 13374
+            "population2020": 13374,
+            "household2002": 2.3,
+            "household2020": 2.06
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 597,
@@ -85364,7 +85824,9 @@
             "industrialShare": 0.002,
             "populationIncrease": 6.771281169389509,
             "population2002": 4337,
-            "population2020": 4652
+            "population2020": 4652,
+            "household2002": 2.46,
+            "household2020": 2.24
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 25,
@@ -85735,7 +86197,9 @@
             "industrialShare": 0.002,
             "populationIncrease": 11.366105377512225,
             "population2002": 6527,
-            "population2020": 7364
+            "population2020": 7364,
+            "household2002": 2.75,
+            "household2020": 2.56
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 4,
@@ -86106,7 +86570,9 @@
             "industrialShare": 0.001,
             "populationIncrease": 10.101202978804658,
             "population2002": 4708,
-            "population2020": 5237
+            "population2020": 5237,
+            "household2002": 2.68,
+            "household2020": 2.46
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 4,
@@ -86477,7 +86943,9 @@
             "industrialShare": 0.002,
             "populationIncrease": 11.550030078203333,
             "population2002": 4411,
-            "population2020": 4987
+            "population2020": 4987,
+            "household2002": 2.49,
+            "household2020": 2.28
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 9,
@@ -86848,7 +87316,9 @@
             "industrialShare": 0.001,
             "populationIncrease": 4.551083591331273,
             "population2002": 3083,
-            "population2020": 3230
+            "population2020": 3230,
+            "household2002": 2.59,
+            "household2020": 2.38
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 1,
@@ -87219,7 +87689,9 @@
             "industrialShare": 0.006,
             "populationIncrease": 5.9899769310317375,
             "population2002": 11818,
-            "population2020": 12571
+            "population2020": 12571,
+            "household2002": 2.44,
+            "household2020": 2.27
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 169,
@@ -87590,7 +88062,9 @@
             "industrialShare": 0.003,
             "populationIncrease": 26.26314881876185,
             "population2002": 4276,
-            "population2020": 5799
+            "population2020": 5799,
+            "household2002": 2.49,
+            "household2020": 2.37
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 1,
@@ -87961,7 +88435,9 @@
             "industrialShare": 0.006999999999999999,
             "populationIncrease": 11.505104841365688,
             "population2002": 8061,
-            "population2020": 9109
+            "population2020": 9109,
+            "household2002": 2.59,
+            "household2020": 2.33
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 45,
@@ -88299,7 +88775,7 @@
     },
     {
         "ins": "91142",
-        "name": "HASTIÈRE",
+        "name": "HASTI\u00c3\u02c6RE",
         "artificialisation": {
             "territory": [
                 {
@@ -88332,7 +88808,9 @@
             "industrialShare": 0,
             "populationIncrease": 14.710771276595747,
             "population2002": 5131,
-            "population2020": 6016
+            "population2020": 6016,
+            "household2002": 2.17,
+            "household2020": 1.94
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 52,
@@ -88703,7 +89181,9 @@
             "industrialShare": 0.001,
             "populationIncrease": -10.39162466072121,
             "population2002": 2847,
-            "population2020": 2579
+            "population2020": 2579,
+            "household2002": 2.16,
+            "household2020": 1.96
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 49,
@@ -89074,7 +89554,9 @@
             "industrialShare": 0.022000000000000002,
             "populationIncrease": 13.487832299713487,
             "population2002": 23854,
-            "population2020": 27573
+            "population2020": 27573,
+            "household2002": 2.42,
+            "household2020": 2.31
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 94,
@@ -89445,7 +89927,9 @@
             "industrialShare": 0.004,
             "populationIncrease": 14.160789844851907,
             "population2002": 6086,
-            "population2020": 7090
+            "population2020": 7090,
+            "household2002": 2.73,
+            "household2020": 2.49
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 6,
@@ -89783,7 +90267,7 @@
     },
     {
         "ins": "92035",
-        "name": "ÉGHEZÉE",
+        "name": "\u00c3\u2030GHEZ\u00c3\u2030E",
         "artificialisation": {
             "territory": [
                 {
@@ -89816,7 +90300,9 @@
             "industrialShare": 0.008,
             "populationIncrease": 16.713278210116734,
             "population2002": 13699,
-            "population2020": 16448
+            "population2020": 16448,
+            "household2002": 2.7,
+            "household2020": 2.52
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 23,
@@ -90187,7 +90673,9 @@
             "industrialShare": 0.019,
             "populationIncrease": 11.794305351006384,
             "population2002": 7187,
-            "population2020": 8148
+            "population2020": 8148,
+            "household2002": 2.56,
+            "household2020": 2.47
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 47,
@@ -90558,7 +91046,9 @@
             "industrialShare": 0.013999999999999999,
             "populationIncrease": 14.633680389722038,
             "population2002": 8937,
-            "population2020": 10469
+            "population2020": 10469,
+            "household2002": 2.53,
+            "household2020": 2.39
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 87,
@@ -90929,7 +91419,9 @@
             "industrialShare": 0.001,
             "populationIncrease": 18.07713651498335,
             "population2002": 5905,
-            "population2020": 7208
+            "population2020": 7208,
+            "household2002": 2.69,
+            "household2020": 2.49
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 9,
@@ -91300,7 +91792,9 @@
             "industrialShare": 0.004,
             "populationIncrease": 12.567475100737479,
             "population2002": 11500,
-            "population2020": 13153
+            "population2020": 13153,
+            "household2002": 2.64,
+            "household2020": 2.38
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 15,
@@ -91671,7 +92165,9 @@
             "industrialShare": 0.018000000000000002,
             "populationIncrease": 5.419448632349777,
             "population2002": 105393,
-            "population2020": 111432
+            "population2020": 111432,
+            "household2002": 2.24,
+            "household2020": 2.11
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 2197,
@@ -92042,7 +92538,9 @@
             "industrialShare": 0.001,
             "populationIncrease": 19.75884869700506,
             "population2002": 4126,
-            "population2020": 5142
+            "population2020": 5142,
+            "household2002": 2.67,
+            "household2020": 2.44
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 3,
@@ -92413,7 +92911,9 @@
             "industrialShare": 0.006999999999999999,
             "populationIncrease": 10.422141918528249,
             "population2002": 10907,
-            "population2020": 12176
+            "population2020": 12176,
+            "household2002": 2.59,
+            "household2020": 2.33
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 23,
@@ -92784,7 +93284,9 @@
             "industrialShare": 0.016,
             "populationIncrease": 12.22877358490566,
             "population2002": 7443,
-            "population2020": 8480
+            "population2020": 8480,
+            "household2002": 2.59,
+            "household2020": 2.51
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 17,
@@ -93155,7 +93657,9 @@
             "industrialShare": 0.031,
             "populationIncrease": 4.493867193007195,
             "population2002": 27097,
-            "population2020": 28372
+            "population2020": 28372,
+            "household2002": 2.4,
+            "household2020": 2.27
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 494,
@@ -93526,7 +94030,9 @@
             "industrialShare": 0.009000000000000001,
             "populationIncrease": 19.8710797074501,
             "population2002": 6464,
-            "population2020": 8067
+            "population2020": 8067,
+            "household2002": 2.73,
+            "household2020": 2.53
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 8,
@@ -93897,7 +94403,9 @@
             "industrialShare": 0.040999999999999995,
             "populationIncrease": 7.439790575916227,
             "population2002": 17679,
-            "population2020": 19100
+            "population2020": 19100,
+            "household2002": 2.52,
+            "household2020": 2.37
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 50,
@@ -94235,7 +94743,7 @@
     },
     {
         "ins": "92141",
-        "name": "LA BRUYÈRE",
+        "name": "LA BRUY\u00c3\u02c6RE",
         "artificialisation": {
             "territory": [
                 {
@@ -94268,7 +94776,9 @@
             "industrialShare": 0.003,
             "populationIncrease": 13.290727902946276,
             "population2002": 8005,
-            "population2020": 9232
+            "population2020": 9232,
+            "household2002": 2.8,
+            "household2020": 2.63
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 3,
@@ -94639,7 +95149,9 @@
             "industrialShare": 0.013000000000000001,
             "populationIncrease": 20.05279063540033,
             "population2002": 20899,
-            "population2020": 26141
+            "population2020": 26141,
+            "household2002": 2.48,
+            "household2020": 2.33
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 89,
@@ -95010,7 +95522,9 @@
             "industrialShare": 0.001,
             "populationIncrease": 11.590134349308201,
             "population2002": 4409,
-            "population2020": 4987
+            "population2020": 4987,
+            "household2002": 2.44,
+            "household2020": 2.26
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 21,
@@ -95381,7 +95895,9 @@
             "industrialShare": 0.005,
             "populationIncrease": 3.7939008527243856,
             "population2002": 13313,
-            "population2020": 13838
+            "population2020": 13838,
+            "household2002": 2.3,
+            "household2020": 2.14
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 383,
@@ -95752,7 +96268,9 @@
             "industrialShare": 0,
             "populationIncrease": 4.680134680134684,
             "population2002": 2831,
-            "population2020": 2970
+            "population2020": 2970,
+            "household2002": 2.37,
+            "household2020": 2.27
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 5,
@@ -96123,7 +96641,9 @@
             "industrialShare": 0.004,
             "populationIncrease": 4.970708325936446,
             "population2002": 10706,
-            "population2020": 11266
+            "population2020": 11266,
+            "household2002": 2.54,
+            "household2020": 2.3
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 14,
@@ -96494,7 +97014,9 @@
             "industrialShare": 0.002,
             "populationIncrease": 12.596456906857956,
             "population2002": 8042,
-            "population2020": 9201
+            "population2020": 9201,
+            "household2002": 2.33,
+            "household2020": 2.15
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 4,
@@ -96865,7 +97387,9 @@
             "industrialShare": 0.004,
             "populationIncrease": 8.040419405660892,
             "population2002": 16927,
-            "population2020": 18407
+            "population2020": 18407,
+            "household2002": 2.54,
+            "household2020": 2.33
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 57,
@@ -97236,7 +97760,9 @@
             "industrialShare": 0.001,
             "populationIncrease": -0.017711654268515176,
             "population2002": 5647,
-            "population2020": 5646
+            "population2020": 5646,
+            "household2002": 2.21,
+            "household2020": 2
         },
         "flood": {
             "nbRetailOfficesServicesAtRisk": 76,

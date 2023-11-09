@@ -42,7 +42,7 @@ function updateContent(container, municipalityName, content) {
         [...container.getElementsByClassName('municipality-name')].forEach((node) => node.innerHTML = municipalityName)
 
         for (const [className, value] of Object.entries(content)) {
-            [...container.getElementsByClassName(className)].forEach((node) => node.innerHTML = Number(Number(value).toFixed(2)).toLocaleString())
+            [...container.getElementsByClassName(className)].forEach((node) => node.innerHTML = Number(Number(value).toFixed(2)).toLocaleString("fr-FR"))
         }
     }
 }
